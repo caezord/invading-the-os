@@ -6,4 +6,5 @@
   
 </div>
 
-
+Repositório para um projeto de um jogo para a cadeira de Sistemas Operacionais ministrada por Alexandre Braga <br>
+Toda a documentação do jogo está armazenada no <a href="https://docs.google.com/document/d/1yLUbhgvJzXJbUw_yelLVPUd5-G4J2OUDIFpRWvchvoQ/edit?usp=sharing">Game Design Document</a> 
