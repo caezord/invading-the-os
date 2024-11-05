@@ -8,3 +8,8 @@
 
 Repositório para um projeto de um jogo para a cadeira de Sistemas Operacionais ministrada por Alexandre Braga <br>
 Toda a documentação do jogo está armazenada no <a href="https://docs.google.com/document/d/1yLUbhgvJzXJbUw_yelLVPUd5-G4J2OUDIFpRWvchvoQ/edit?usp=sharing">Game Design Document</a> 
+
+# Tecnologias usadas
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Logo_Aseprite.svg/1200px-Logo_Aseprite.svg.png" width=5%> <img src="https://godotengine.org/assets/press/icon_color_outline.png" width=6%> <img src="https://i.pinimg.com/originals/82/a2/18/82a2188c985ce75402ae44fc43fe7e5e.png" width=6%>
+
